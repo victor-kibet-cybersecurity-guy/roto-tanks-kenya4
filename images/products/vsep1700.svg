@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t d">
+<title id="t">Vertical Septic Tank 1,700L</title><desc id="d">Illustration placeholder for Vertical Septic Tank 1,700L.</desc>
+<rect width="800" height="600" fill="#edf7ff"/>
+<circle cx="400" cy="235" r="150" fill="#0b76c9" opacity=".13"/>
+<rect x="245" y="110" width="310" height="300" rx="70" fill="#0b76c9"/>
+<rect x="285" y="145" width="230" height="20" rx="10" fill="#7cc7ff" opacity=".65"/>
+<rect x="285" y="195" width="230" height="20" rx="10" fill="#7cc7ff" opacity=".65"/>
+<rect x="285" y="245" width="230" height="20" rx="10" fill="#7cc7ff" opacity=".65"/>
+<rect x="285" y="295" width="230" height="20" rx="10" fill="#7cc7ff" opacity=".65"/>
+<rect x="285" y="345" width="230" height="20" rx="10" fill="#7cc7ff" opacity=".65"/>
+<text x="400" y="475" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#0b2b40">Vertical Septic Tank 1,700L</text>
+<text x="400" y="515" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#35657f">1,700L</text>
+</svg>
