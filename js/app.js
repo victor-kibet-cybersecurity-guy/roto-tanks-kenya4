@@ -16,6 +16,14 @@ document.addEventListener("DOMContentLoaded", () => {
     document.addEventListener("keydown",e=>{if(e.key==="Escape")closeMenu();});
   }
 
+  const navGroups=[...document.querySelectorAll(".nav-group")];
+  navGroups.forEach(group=>group.addEventListener("toggle",()=>{
+    if(group.open) navGroups.forEach(other=>{if(other!==group) other.open=false;});
+  }));
+  document.addEventListener("click",e=>{
+    navGroups.forEach(group=>{if(group.open&&!group.contains(e.target)) group.open=false;});
+  });
+
   document.querySelectorAll("[data-wa]").forEach(el=>{
     el.addEventListener("click", e => {
       const msg=el.dataset.wa || "Hello, I would like information about Roto Tanks in Kenya.";
