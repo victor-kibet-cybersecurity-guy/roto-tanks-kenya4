@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if(contactForm) contactForm.addEventListener("submit",e=>{
     e.preventDefault();
     const f=new FormData(contactForm);
-    const msg=`Hello, my name is ${f.get("name")}. Phone: ${f.get("phone")}. Product: ${f.get("product")||"Not specified"}. Capacity: ${f.get("capacity")||"Not specified"}. County: ${f.get("county")}. Town: ${f.get("town")}. Message: ${f.get("message")}`;
+    const msg=`Hello, my name is ${f.get("name")}. Phone: ${f.get("phone")}. Product: ${f.get("product")||"Not specified"}. Capacity: ${f.get("capacity")||"Not specified"}. Quantity: ${f.get("quantity")||"1"}. County: ${f.get("county")}. Town: ${f.get("town")}. Exact delivery location: ${f.get("deliveryLocation")||"Not specified"}. Landmark: ${f.get("landmark")||"Not specified"}. Property type: ${f.get("propertyType")||"Not specified"}. Preferred delivery date: ${f.get("deliveryDate")||"Not specified"}. Installation guidance: ${f.get("installationGuidance")||"No"}. Message: ${f.get("message")}`;
     window.open(waUrl(msg),"_blank","noopener");
   });
 

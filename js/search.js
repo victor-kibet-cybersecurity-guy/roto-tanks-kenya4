@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded",()=>{
  let idx=-1, matches=[];
  const draw=()=>{
    const q=input.value.trim().toLowerCase(); if(!q){box.classList.remove("show");box.innerHTML="";return;}
-   matches=PRODUCTS.filter(p=>(p.name+" "+p.category+" "+p.capacity).toLowerCase().includes(q)).slice(0,8); idx=-1;
+   const aliases={cow:"cattle trough",cows:"cattle trough",bin:"waste sanitation",septic:"septic tanks",underground:"underground tanks"}; const expanded=(q+" "+(aliases[q]||"")); matches=PRODUCTS.filter(p=>(p.name+" "+p.category+" "+p.capacity+" "+(p.keywords||[]).join(" ")).toLowerCase().includes(q) || (aliases[q]||"") && (p.name+" "+p.category).toLowerCase().includes(aliases[q])).slice(0,8); idx=-1;
    const esc=q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
    box.innerHTML=matches.map((p,i)=>`<div class="suggestion" role="option" data-i="${i}">${p.name.replace(new RegExp(`(${esc})`,"ig"),'<span class="mark">$1</span>')}</div>`).join("");
    box.classList.toggle("show",matches.length>0);
