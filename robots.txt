@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victor-kibet-cybersecurity-guy.github.io/roto-tanks-kenya3/sitemap.xml
