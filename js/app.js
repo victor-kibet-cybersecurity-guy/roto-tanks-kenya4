@@ -14,6 +14,10 @@ document.addEventListener("DOMContentLoaded", () => {
     nav.querySelectorAll("a").forEach(a=>a.addEventListener("click",closeMenu));
     document.addEventListener("click",e=>{if(nav.classList.contains("open")&&!nav.contains(e.target)&&!menuBtn.contains(e.target))closeMenu();});
     document.addEventListener("keydown",e=>{if(e.key==="Escape")closeMenu();});
+    const desktopQuery=window.matchMedia("(min-width:1001px)");
+    const syncMenu=()=>{if(desktopQuery.matches)closeMenu();};
+    if(desktopQuery.addEventListener)desktopQuery.addEventListener("change",syncMenu);
+    else desktopQuery.addListener(syncMenu);
   }
 
   const navGroups=[...document.querySelectorAll(".nav-group")];

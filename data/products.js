@@ -23,8 +23,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 1,000L listed at KSh 6,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-1000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "117 cm diameter × 110 cm high",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 117,
+    "heightCm": 110,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt2000",
@@ -50,8 +56,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 2,000L listed at KSh 10,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-2000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "134 cm diameter × 146 cm high",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 134,
+    "heightCm": 146,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt3000",
@@ -77,8 +89,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 3,000L listed at KSh 14,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-3000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "158 cm diameter × 168 cm high",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 158,
+    "heightCm": 168,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt4000",
@@ -104,8 +122,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 4,000L listed at KSh 18,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-4000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "166 cm diameter × 198 cm high (regular); 180 cm × 180 cm (short)",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 180,
+    "heightCm": 198,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt5000",
@@ -131,8 +155,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 5,000L listed at KSh 24,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-5000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "179 cm diameter × 207 cm high (tall); 193 cm × 196 cm (short)",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 193,
+    "heightCm": 207,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt6000",
@@ -158,8 +188,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 6,000L listed at KSh 27,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-6000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "200 cm diameter × 230 cm high",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 200,
+    "heightCm": 230,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt8000",
@@ -185,8 +221,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 8,000L listed at KSh 32,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-8000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "200 cm diameter × 242 cm high",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 200,
+    "heightCm": 242,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt10000",
@@ -212,8 +254,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 10,000L listed at KSh 49,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-10000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "219 cm diameter × 292 cm high (tall); 262 cm × 209 cm (short)",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 262,
+    "heightCm": 292,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt16000",
@@ -239,8 +287,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 16,000L listed at KSh 67,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-16000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "314 cm diameter × 244 cm high",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 314,
+    "heightCm": 244,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt20000",
@@ -266,8 +320,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 20,000L listed at KSh 98,500. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-20000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "338 cm diameter × 255 cm high",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 338,
+    "heightCm": 255,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "rt24000",
@@ -293,8 +353,14 @@ window.PRODUCTS = [
     "availability": "Contact to confirm",
     "whatsappMessage": "Hello, I am interested in the Roto Water Tank 24,000L listed at KSh 135,000. Please confirm the latest price, availability and delivery cost to my location.",
     "productPage": "roto-water-tank-24000-litres.html",
-    "dimensions": "Confirm current manufacturer dimensions before ordering",
-    "material": "Moulded plastic product. Confirm current manufacturer material specification for the intended use."
+    "dimensions": "356 cm diameter × 276 cm high",
+    "material": "Food-grade, BPA-free, UV-stabilized polyethylene suitable for potable-water storage (manufacturer statement).",
+    "diameterCm": 356,
+    "heightCm": 276,
+    "emptyWeight": "Request current model data sheet",
+    "outletSize": "Confirm for dispatched model",
+    "lidDiameter": "Confirm for dispatched model",
+    "priceUpdated": "2026-08-22"
   },
   {
     "id": "ug2000",
