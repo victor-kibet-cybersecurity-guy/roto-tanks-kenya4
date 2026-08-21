@@ -20,6 +20,26 @@ document.addEventListener("DOMContentLoaded", () => {
     else desktopQuery.addListener(syncMenu);
   }
 
+  let floatActions=document.querySelector(".float-actions");
+  if(!floatActions){
+    floatActions=document.createElement("div");
+    floatActions.className="float-actions";
+    floatActions.setAttribute("aria-label","Quick contact");
+    const waLink=document.createElement("a");
+    waLink.className="wa";
+    waLink.href=`https://wa.me/${PHONE}`;
+    waLink.target="_blank";
+    waLink.rel="noopener";
+    waLink.dataset.wa="Hello, I would like information about Roto Tanks.";
+    waLink.setAttribute("aria-label","WhatsApp");
+    const callLink=document.createElement("a");
+    callLink.className="call";
+    callLink.href=`tel:+${PHONE}`;
+    callLink.setAttribute("aria-label",`Call ${PHONE_DISPLAY}`);
+    floatActions.append(waLink,callLink);
+    document.body.append(floatActions);
+  }
+
   const navGroups=[...document.querySelectorAll(".nav-group")];
   navGroups.forEach(group=>group.addEventListener("toggle",()=>{
     if(group.open) navGroups.forEach(other=>{if(other!==group) other.open=false;});

@@ -128,8 +128,7 @@ input,select,textarea,button{max-width:100%;font:inherit}
   .footer{padding:44px 0 34px}.footer-grid{grid-template-columns:1fr 1fr;gap:24px 18px}
   .copyright{margin-top:26px}
   .mobile-contact-bar{display:none!important}
-  body:has(.mobile-contact-bar) .float-actions{display:none}
-  .float-actions{right:10px;bottom:10px}.float-actions a{width:48px;height:48px}
+  .float-actions{right:max(10px,env(safe-area-inset-right));bottom:max(10px,env(safe-area-inset-bottom))}.float-actions a{width:48px;height:48px}
 }
 
 @media(max-width:520px){
