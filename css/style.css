@@ -77,7 +77,9 @@ input,select,textarea,button{max-width:100%;font:inherit}
 .data-table th,.data-table td{vertical-align:top}
 .navbar{position:relative}
 .menu-btn{flex:0 0 auto}
-.float-actions .wa,.float-actions .call{overflow:hidden;background-position:center;background-repeat:no-repeat;background-size:26px 26px;color:transparent;font-size:0}
+.float-actions{gap:12px}
+.float-actions a{width:64px;height:64px}
+.float-actions .wa,.float-actions .call{overflow:hidden;background-position:center;background-repeat:no-repeat;background-size:32px 32px;color:transparent;font-size:0}
 .float-actions .wa{background-color:#18a65d;background-image:url("../images/icons/whatsapp.svg")}
 .float-actions .call{background-color:var(--blue);background-image:url("../images/icons/telephone-fill.svg")}
 
@@ -128,7 +130,7 @@ input,select,textarea,button{max-width:100%;font:inherit}
   .footer{padding:44px 0 34px}.footer-grid{grid-template-columns:1fr 1fr;gap:24px 18px}
   .copyright{margin-top:26px}
   .mobile-contact-bar{display:none!important}
-  .float-actions{right:max(10px,env(safe-area-inset-right));bottom:max(10px,env(safe-area-inset-bottom))}.float-actions a{width:48px;height:48px}
+  .float-actions{right:max(12px,env(safe-area-inset-right));bottom:max(12px,env(safe-area-inset-bottom))}.float-actions a{width:58px;height:58px}.float-actions .wa,.float-actions .call{background-size:30px 30px}
 }
 
 @media(max-width:520px){
