@@ -77,9 +77,12 @@ input,select,textarea,button{max-width:100%;font:inherit}
 }
 
 @media(max-width:520px){
-  .grid,.product-static-grid,.stats,.process{grid-template-columns:minmax(0,1fr)}
+  .grid,.product-static-grid,.related-product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .stats,.process{grid-template-columns:minmax(0,1fr)}
   .product-body{padding:14px}
+  .related-product-body{padding:12px}
   .product-card h3,.product-static-card h3{font-size:1.05rem}
+  .related-product-card h3{font-size:1rem}
   .product-card p,.product-static-card p{font-size:.94rem}
   .badges{grid-template-columns:1fr 1fr;gap:9px}.badge{padding:13px 10px;font-size:.9rem}
   .compare-grid,.trust-strip{gap:12px}
