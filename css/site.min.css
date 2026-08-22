@@ -105,3 +105,5 @@ input,select,textarea,button{max-width:100%;font:inherit}
 .mt-24{margin-top:24px}
 .mt-30{margin-top:30px}
 .text-center{text-align:center}
+.announce a{color:#fff;font-weight:750;text-decoration:underline;text-underline-offset:2px}
+.full-grid-message{grid-column:1/-1}
