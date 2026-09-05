@@ -169,7 +169,11 @@ input,select,textarea,button{max-width:100%;font:inherit}
 .product-card img[src*="roto-water-tank"],
 .product-static-card img[src*="roto-water-tank"],
 .related-product-card img[src*="roto-water-tank"],
-.product-intro-grid .hero-card img[src*="roto-water-tank"]{
+.product-intro-grid .hero-card img[src*="roto-water-tank"],
+.product-card img[src*="roto-underground-tank"],
+.product-static-card img[src*="roto-underground-tank"],
+.related-product-card img[src*="roto-underground-tank"],
+.product-intro-grid .hero-card img[src*="roto-underground-tank"]{
   object-fit:contain;
   background:#fff;
 }

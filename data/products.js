@@ -368,7 +368,7 @@ window.PRODUCTS = [
     "category": "Underground Tanks",
     "capacity": 2000,
     "price": 22215,
-    "image": "images/products/ug2000.svg",
+    "image": "images/products/roto-underground-tank.jpeg",
     "shortDescription": "Space-saving underground storage for suitable installations.",
     "applications": [
       "home",
@@ -395,7 +395,7 @@ window.PRODUCTS = [
     "category": "Underground Tanks",
     "capacity": 5000,
     "price": 55000,
-    "image": "images/products/ug5000.svg",
+    "image": "images/products/roto-underground-tank.jpeg",
     "shortDescription": "Underground water storage for homes and commercial properties.",
     "applications": [
       "home",
@@ -422,7 +422,7 @@ window.PRODUCTS = [
     "category": "Underground Tanks",
     "capacity": 10000,
     "price": 95000,
-    "image": "images/products/ug10000.svg",
+    "image": "images/products/roto-underground-tank.jpeg",
     "shortDescription": "Large underground storage for high-demand sites.",
     "applications": [
       "home",
@@ -449,7 +449,7 @@ window.PRODUCTS = [
     "category": "Underground Tanks",
     "capacity": 16000,
     "price": 146758,
-    "image": "images/products/ug16000.svg",
+    "image": "images/products/roto-underground-tank.jpeg",
     "shortDescription": "Large underground storage option for commercial applications.",
     "applications": [
       "home",
