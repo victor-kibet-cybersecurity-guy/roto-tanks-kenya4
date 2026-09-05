@@ -1,0 +1,21 @@
+.hero-card {
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  padding: 18px;
+  border-color: #000;
+  background: #000;
+}
+
+.hero-card picture {
+  display: block;
+  width: 100%;
+  background: #000;
+}
+
+.hero-card img {
+  width: 100%;
+  aspect-ratio: 476 / 338;
+  object-fit: contain;
+  background: #000;
+}
