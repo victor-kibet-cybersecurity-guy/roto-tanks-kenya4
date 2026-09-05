@@ -5,7 +5,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 1000,
     "price": 6500,
-    "image": "images/products/rt1000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "Domestic water storage, rainwater harvesting and backup supply.",
     "applications": [
       "home",
@@ -38,7 +38,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 2000,
     "price": 10500,
-    "image": "images/products/rt2000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "Compact household water storage for homes and small businesses.",
     "applications": [
       "home",
@@ -71,7 +71,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 3000,
     "price": 14500,
-    "image": "images/products/rt3000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "Popular medium-size tank for homes, rentals and small farms.",
     "applications": [
       "home",
@@ -104,7 +104,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 4000,
     "price": 18500,
-    "image": "images/products/rt4000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "Balanced storage capacity for households and commercial premises.",
     "applications": [
       "home",
@@ -137,7 +137,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 5000,
     "price": 24500,
-    "image": "images/products/rt5000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "High-demand tank for homes, apartments, farms and rainwater harvesting.",
     "applications": [
       "home",
@@ -170,7 +170,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 6000,
     "price": 27500,
-    "image": "images/products/rt6000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "Large household and institutional water storage solution.",
     "applications": [
       "home",
@@ -203,7 +203,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 8000,
     "price": 32500,
-    "image": "images/products/rt8000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "Large-capacity tank for schools, farms and commercial properties.",
     "applications": [
       "home",
@@ -236,7 +236,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 10000,
     "price": 49500,
-    "image": "images/products/rt10000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "Large water storage for apartments, schools, farms and businesses.",
     "applications": [
       "home",
@@ -269,7 +269,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 16000,
     "price": 67500,
-    "image": "images/products/rt16000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "High-volume storage for institutions, farms and commercial sites.",
     "applications": [
       "home",
@@ -302,7 +302,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 20000,
     "price": 98500,
-    "image": "images/products/rt20000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "High-capacity water storage for large compounds and institutions.",
     "applications": [
       "home",
@@ -335,7 +335,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 24000,
     "price": 135000,
-    "image": "images/products/rt24000.svg",
+    "image": "images/products/roto-water-tank.jpeg",
     "shortDescription": "Maximum listed capacity for large commercial and institutional storage.",
     "applications": [
       "home",
