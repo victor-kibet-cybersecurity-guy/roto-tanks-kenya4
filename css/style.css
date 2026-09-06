@@ -165,6 +165,11 @@ input,select,textarea,button{max-width:100%;font:inherit}
 .announce a{color:#fff;font-weight:750;text-decoration:underline;text-underline-offset:2px}
 .full-grid-message{grid-column:1/-1}
 
+/* Homepage hero styles are bundled here to avoid a second render-blocking stylesheet. */
+.hero .hero-card{display:grid;place-items:center;overflow:hidden;padding:18px;border-color:#000;background:#000}
+.hero .hero-card picture{display:block;width:100%;background:#000}
+.hero .hero-card img{width:100%;aspect-ratio:476/338;object-fit:contain;background:#000}
+
 /* Keep the shared Roto water-tank photo fully visible in every product layout. */
 .product-card img[src*="roto-water-tank"],
 .product-static-card img[src*="roto-water-tank"],

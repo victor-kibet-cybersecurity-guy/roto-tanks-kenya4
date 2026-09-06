@@ -5,7 +5,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 1000,
     "price": 6500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "Domestic water storage, rainwater harvesting and backup supply.",
     "applications": [
       "home",
@@ -38,7 +38,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 2000,
     "price": 10500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "Compact household water storage for homes and small businesses.",
     "applications": [
       "home",
@@ -71,7 +71,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 3000,
     "price": 14500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "Popular medium-size tank for homes, rentals and small farms.",
     "applications": [
       "home",
@@ -104,7 +104,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 4000,
     "price": 18500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "Balanced storage capacity for households and commercial premises.",
     "applications": [
       "home",
@@ -137,7 +137,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 5000,
     "price": 24500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "High-demand tank for homes, apartments, farms and rainwater harvesting.",
     "applications": [
       "home",
@@ -170,7 +170,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 6000,
     "price": 27500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "Large household and institutional water storage solution.",
     "applications": [
       "home",
@@ -203,7 +203,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 8000,
     "price": 32500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "Large-capacity tank for schools, farms and commercial properties.",
     "applications": [
       "home",
@@ -236,7 +236,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 10000,
     "price": 49500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "Large water storage for apartments, schools, farms and businesses.",
     "applications": [
       "home",
@@ -269,7 +269,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 16000,
     "price": 67500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "High-volume storage for institutions, farms and commercial sites.",
     "applications": [
       "home",
@@ -302,7 +302,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 20000,
     "price": 98500,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "High-capacity water storage for large compounds and institutions.",
     "applications": [
       "home",
@@ -335,7 +335,7 @@ window.PRODUCTS = [
     "category": "Roto Tanks",
     "capacity": 24000,
     "price": 135000,
-    "image": "images/products/roto-water-tank.jpeg",
+    "image": "images/products/roto-water-tank.webp",
     "shortDescription": "Maximum listed capacity for large commercial and institutional storage.",
     "applications": [
       "home",
@@ -368,7 +368,7 @@ window.PRODUCTS = [
     "category": "Underground Tanks",
     "capacity": 2000,
     "price": 22215,
-    "image": "images/products/roto-underground-tank.jpeg",
+    "image": "images/products/roto-underground-tank.webp",
     "shortDescription": "Space-saving underground storage for suitable installations.",
     "applications": [
       "home",
@@ -395,7 +395,7 @@ window.PRODUCTS = [
     "category": "Underground Tanks",
     "capacity": 5000,
     "price": 55000,
-    "image": "images/products/roto-underground-tank.jpeg",
+    "image": "images/products/roto-underground-tank.webp",
     "shortDescription": "Underground water storage for homes and commercial properties.",
     "applications": [
       "home",
@@ -422,7 +422,7 @@ window.PRODUCTS = [
     "category": "Underground Tanks",
     "capacity": 10000,
     "price": 95000,
-    "image": "images/products/roto-underground-tank.jpeg",
+    "image": "images/products/roto-underground-tank.webp",
     "shortDescription": "Large underground storage for high-demand sites.",
     "applications": [
       "home",
@@ -449,7 +449,7 @@ window.PRODUCTS = [
     "category": "Underground Tanks",
     "capacity": 16000,
     "price": 146758,
-    "image": "images/products/roto-underground-tank.jpeg",
+    "image": "images/products/roto-underground-tank.webp",
     "shortDescription": "Large underground storage option for commercial applications.",
     "applications": [
       "home",
@@ -476,7 +476,7 @@ window.PRODUCTS = [
     "category": "Septic Tanks",
     "capacity": 3000,
     "price": 72500,
-    "image": "images/products/roto-septic-tank.jpeg",
+    "image": "images/products/roto-septic-tank.webp",
     "shortDescription": "Horizontal septic solution for residential and light commercial use.",
     "applications": [
       "sanitation",
@@ -502,7 +502,7 @@ window.PRODUCTS = [
     "category": "Septic Tanks",
     "capacity": 5000,
     "price": 98000,
-    "image": "images/products/roto-septic-tank.jpeg",
+    "image": "images/products/roto-septic-tank.webp",
     "shortDescription": "Medium-capacity horizontal septic tank.",
     "applications": [
       "sanitation",
@@ -528,7 +528,7 @@ window.PRODUCTS = [
     "category": "Septic Tanks",
     "capacity": 10000,
     "price": 140978,
-    "image": "images/products/roto-septic-tank.jpeg",
+    "image": "images/products/roto-septic-tank.webp",
     "shortDescription": "Large horizontal septic tank for higher-demand properties.",
     "applications": [
       "sanitation",
@@ -554,7 +554,7 @@ window.PRODUCTS = [
     "category": "Septic Tanks",
     "capacity": 1700,
     "price": 56940,
-    "image": "images/products/roto-septic-tank.jpeg",
+    "image": "images/products/roto-septic-tank.webp",
     "shortDescription": "Compact vertical septic tank for space-conscious installations.",
     "applications": [
       "sanitation",
@@ -580,7 +580,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 30,
     "price": 2715,
-    "image": "images/products/roto-drum.jpeg",
+    "image": "images/products/roto-drum.webp",
     "shortDescription": "Compact plastic drum for storage and handling.",
     "applications": [
       "drums"
@@ -604,7 +604,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 30,
     "price": 3200,
-    "image": "images/products/roto-drum.jpeg",
+    "image": "images/products/roto-drum.webp",
     "shortDescription": "Durable 30-litre plastic drum.",
     "applications": [
       "drums"
@@ -628,7 +628,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 40,
     "price": 2905,
-    "image": "images/products/roto-drum.jpeg",
+    "image": "images/products/roto-drum.webp",
     "shortDescription": "Practical 40-litre drum for general storage.",
     "applications": [
       "drums"
@@ -652,7 +652,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 90,
     "price": 4250,
-    "image": "images/products/roto-drum.jpeg",
+    "image": "images/products/roto-drum.webp",
     "shortDescription": "Larger plastic drum for domestic and commercial use.",
     "applications": [
       "drums"
@@ -676,7 +676,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 100,
     "price": 4150,
-    "image": "images/products/roto-drum.jpeg",
+    "image": "images/products/roto-drum.webp",
     "shortDescription": "100-litre drum for general-purpose storage.",
     "applications": [
       "drums"
@@ -808,7 +808,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 120,
     "price": 9550,
-    "image": "images/products/roto-wheel-bin.jpeg",
+    "image": "images/products/roto-wheel-bin.webp",
     "shortDescription": "Mobile 120-litre waste bin.",
     "applications": [
       "waste management",
@@ -834,7 +834,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 240,
     "price": 12250,
-    "image": "images/products/roto-wheel-bin.jpeg",
+    "image": "images/products/roto-wheel-bin.webp",
     "shortDescription": "240-litre wheeled waste bin.",
     "applications": [
       "waste management",
@@ -860,7 +860,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 240,
     "price": 16250,
-    "image": "images/products/roto-wheel-bin.jpeg",
+    "image": "images/products/roto-wheel-bin.webp",
     "shortDescription": "Pedal-operated 240-litre wheel bin.",
     "applications": [
       "waste management",
@@ -886,7 +886,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 500,
     "price": 30800,
-    "image": "images/products/roto-wheel-bin.jpeg",
+    "image": "images/products/roto-wheel-bin.webp",
     "shortDescription": "Large pedal wheel bin for high-volume waste.",
     "applications": [
       "waste management",
@@ -912,7 +912,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 120,
     "price": 13600,
-    "image": "images/products/roto-pedal-bin.jpeg",
+    "image": "images/products/roto-pedal-bin.webp",
     "shortDescription": "Mobile pedal bin for controlled waste handling.",
     "applications": [
       "waste management",
@@ -938,7 +938,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 690,
     "price": 39050,
-    "image": "images/products/roto-mega-bin.jpeg",
+    "image": "images/products/roto-mega-bin.webp",
     "shortDescription": "Large-capacity mobile waste container.",
     "applications": [
       "waste management",
@@ -964,7 +964,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 1100,
     "price": 58800,
-    "image": "images/products/roto-mega-bin.jpeg",
+    "image": "images/products/roto-mega-bin.webp",
     "shortDescription": "High-capacity 1,100-litre waste bin.",
     "applications": [
       "waste management",
@@ -990,7 +990,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 200,
     "price": 35900,
-    "image": "images/products/roto-dustbin.jpeg",
+    "image": "images/products/roto-dustbin.webp",
     "shortDescription": "Three-section waste separation bin.",
     "applications": [
       "waste management",
@@ -1016,7 +1016,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 60,
     "price": 4200,
-    "image": "images/products/roto-dustbin.jpeg",
+    "image": "images/products/roto-dustbin.webp",
     "shortDescription": "Compact 60-litre dustbin.",
     "applications": [
       "waste management",
@@ -1042,7 +1042,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 100,
     "price": 5800,
-    "image": "images/products/roto-dustbin.jpeg",
+    "image": "images/products/roto-dustbin.webp",
     "shortDescription": "100-litre dustbin for general waste.",
     "applications": [
       "waste management",
@@ -1170,7 +1170,7 @@ window.PRODUCTS = [
     "category": "Sanitation",
     "capacity": 0,
     "price": 89300,
-    "image": "images/products/roto-askari-hut.jpeg",
+    "image": "images/products/roto-askari-hut.webp",
     "shortDescription": "Moulded security hut for guards and site access points.",
     "applications": [
       "sanitation"
@@ -1218,7 +1218,7 @@ window.PRODUCTS = [
     "category": "Sanitation",
     "capacity": 60,
     "price": 6050,
-    "image": "images/products/roto-handwash.jpeg",
+    "image": "images/products/roto-handwash.webp",
     "shortDescription": "Portable 60-litre handwashing unit.",
     "applications": [
       "sanitation"
@@ -1242,7 +1242,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 9450,
-    "image": "images/products/roto-cattle-trough.jpeg",
+    "image": "images/products/roto-cattle-trough.webp",
     "shortDescription": "Durable livestock feeding or watering trough.",
     "applications": [
       "farm",
@@ -1267,7 +1267,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 10500,
-    "image": "images/products/roto-cattle-trough.jpeg",
+    "image": "images/products/roto-cattle-trough.webp",
     "shortDescription": "Farming trough for livestock operations.",
     "applications": [
       "farm",
@@ -1292,7 +1292,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 12600,
-    "image": "images/products/roto-cattle-trough.jpeg",
+    "image": "images/products/roto-cattle-trough.webp",
     "shortDescription": "Medium cattle trough for farm use.",
     "applications": [
       "farm",
@@ -1317,7 +1317,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 30900,
-    "image": "images/products/roto-cattle-trough.jpeg",
+    "image": "images/products/roto-cattle-trough.webp",
     "shortDescription": "Large cattle trough for livestock facilities.",
     "applications": [
       "farm",
@@ -1342,7 +1342,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 41600,
-    "image": "images/products/roto-cattle-trough.jpeg",
+    "image": "images/products/roto-cattle-trough.webp",
     "shortDescription": "Heavy-duty cattle trough for larger herds.",
     "applications": [
       "farm",
@@ -1367,7 +1367,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 38,
     "price": 4200,
-    "image": "images/products/roto-milk-can.jpeg",
+    "image": "images/products/roto-milk-can.webp",
     "shortDescription": "38-litre plastic milk can for farm handling.",
     "applications": [
       "farm",
@@ -1392,7 +1392,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 80,
     "price": 6400,
-    "image": "images/products/roto-milk-can.jpeg",
+    "image": "images/products/roto-milk-can.webp",
     "shortDescription": "80-litre plastic milk can.",
     "applications": [
       "farm",
@@ -1729,7 +1729,7 @@ window.PRODUCTS = [
     "category": "Sanitation",
     "capacity": 60,
     "price": 10450,
-    "image": "images/products/roto-handwash.jpeg",
+    "image": "images/products/roto-handwash.webp",
     "shortDescription": "60-litre cylindrical handwashing tank.",
     "applications": [
       "sanitation"
