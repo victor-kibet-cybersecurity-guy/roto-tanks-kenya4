@@ -476,7 +476,7 @@ window.PRODUCTS = [
     "category": "Septic Tanks",
     "capacity": 3000,
     "price": 72500,
-    "image": "images/products/sep3000.svg",
+    "image": "images/products/roto-septic-tank.jpeg",
     "shortDescription": "Horizontal septic solution for residential and light commercial use.",
     "applications": [
       "sanitation",
@@ -502,7 +502,7 @@ window.PRODUCTS = [
     "category": "Septic Tanks",
     "capacity": 5000,
     "price": 98000,
-    "image": "images/products/sep5000.svg",
+    "image": "images/products/roto-septic-tank.jpeg",
     "shortDescription": "Medium-capacity horizontal septic tank.",
     "applications": [
       "sanitation",
@@ -528,7 +528,7 @@ window.PRODUCTS = [
     "category": "Septic Tanks",
     "capacity": 10000,
     "price": 140978,
-    "image": "images/products/sep10000.svg",
+    "image": "images/products/roto-septic-tank.jpeg",
     "shortDescription": "Large horizontal septic tank for higher-demand properties.",
     "applications": [
       "sanitation",
@@ -554,7 +554,7 @@ window.PRODUCTS = [
     "category": "Septic Tanks",
     "capacity": 1700,
     "price": 56940,
-    "image": "images/products/vsep1700.svg",
+    "image": "images/products/roto-septic-tank.jpeg",
     "shortDescription": "Compact vertical septic tank for space-conscious installations.",
     "applications": [
       "sanitation",

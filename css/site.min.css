@@ -108,3 +108,4 @@ input,select,textarea,button{max-width:100%;font:inherit}
 .announce a{color:#fff;font-weight:750;text-decoration:underline;text-underline-offset:2px}
 .full-grid-message{grid-column:1/-1}
 .product-card img[src*="roto-water-tank"],.product-static-card img[src*="roto-water-tank"],.related-product-card img[src*="roto-water-tank"],.product-intro-grid .hero-card img[src*="roto-water-tank"],.product-card img[src*="roto-underground-tank"],.product-static-card img[src*="roto-underground-tank"],.related-product-card img[src*="roto-underground-tank"],.product-intro-grid .hero-card img[src*="roto-underground-tank"]{object-fit:contain;background:#fff}
+.product-card img[src*="roto-septic-tank"],.product-static-card img[src*="roto-septic-tank"],.related-product-card img[src*="roto-septic-tank"],.product-intro-grid .hero-card img[src*="roto-septic-tank"]{object-fit:contain;background:#000}
