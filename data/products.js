@@ -580,7 +580,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 30,
     "price": 2715,
-    "image": "images/products/dr030.svg",
+    "image": "images/products/roto-drum.jpeg",
     "shortDescription": "Compact plastic drum for storage and handling.",
     "applications": [
       "drums"
@@ -604,7 +604,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 30,
     "price": 3200,
-    "image": "images/products/rdr030.svg",
+    "image": "images/products/roto-drum.jpeg",
     "shortDescription": "Durable 30-litre plastic drum.",
     "applications": [
       "drums"
@@ -628,7 +628,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 40,
     "price": 2905,
-    "image": "images/products/dr040.svg",
+    "image": "images/products/roto-drum.jpeg",
     "shortDescription": "Practical 40-litre drum for general storage.",
     "applications": [
       "drums"
@@ -652,7 +652,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 90,
     "price": 4250,
-    "image": "images/products/rdr090.svg",
+    "image": "images/products/roto-drum.jpeg",
     "shortDescription": "Larger plastic drum for domestic and commercial use.",
     "applications": [
       "drums"
@@ -676,7 +676,7 @@ window.PRODUCTS = [
     "category": "Drums",
     "capacity": 100,
     "price": 4150,
-    "image": "images/products/dr100.svg",
+    "image": "images/products/roto-drum.jpeg",
     "shortDescription": "100-litre drum for general-purpose storage.",
     "applications": [
       "drums"
