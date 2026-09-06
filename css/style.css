@@ -217,6 +217,23 @@ input,select,textarea,button{max-width:100%;font:inherit}
   background:#fff;
 }
 
+/* Keep the supplied wheel-bin and pedal-bin photos fully visible. */
+.product-card img[src*="roto-wheel-bin"],
+.product-static-card img[src*="roto-wheel-bin"],
+.related-product-card img[src*="roto-wheel-bin"],
+.product-intro-grid .hero-card img[src*="roto-wheel-bin"]{
+  object-fit:contain;
+  background:#f7f7f7;
+}
+
+.product-card img[src*="roto-pedal-bin"],
+.product-static-card img[src*="roto-pedal-bin"],
+.related-product-card img[src*="roto-pedal-bin"],
+.product-intro-grid .hero-card img[src*="roto-pedal-bin"]{
+  object-fit:contain;
+  background:#fff;
+}
+
 /* Match the supplied septic-tank photo's dark background. */
 .product-card img[src*="roto-septic-tank"],
 .product-static-card img[src*="roto-septic-tank"],

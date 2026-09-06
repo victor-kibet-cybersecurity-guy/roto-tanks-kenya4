@@ -808,7 +808,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 120,
     "price": 9550,
-    "image": "images/products/wb120.svg",
+    "image": "images/products/roto-wheel-bin.jpeg",
     "shortDescription": "Mobile 120-litre waste bin.",
     "applications": [
       "waste management",
@@ -834,7 +834,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 240,
     "price": 12250,
-    "image": "images/products/wb240.svg",
+    "image": "images/products/roto-wheel-bin.jpeg",
     "shortDescription": "240-litre wheeled waste bin.",
     "applications": [
       "waste management",
@@ -860,7 +860,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 240,
     "price": 16250,
-    "image": "images/products/wp240.svg",
+    "image": "images/products/roto-wheel-bin.jpeg",
     "shortDescription": "Pedal-operated 240-litre wheel bin.",
     "applications": [
       "waste management",
@@ -886,7 +886,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 500,
     "price": 30800,
-    "image": "images/products/wp500.svg",
+    "image": "images/products/roto-wheel-bin.jpeg",
     "shortDescription": "Large pedal wheel bin for high-volume waste.",
     "applications": [
       "waste management",
@@ -912,7 +912,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 120,
     "price": 13600,
-    "image": "images/products/pb120.svg",
+    "image": "images/products/roto-pedal-bin.jpeg",
     "shortDescription": "Mobile pedal bin for controlled waste handling.",
     "applications": [
       "waste management",
