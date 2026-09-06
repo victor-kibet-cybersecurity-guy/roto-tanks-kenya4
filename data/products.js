@@ -1170,7 +1170,7 @@ window.PRODUCTS = [
     "category": "Sanitation",
     "capacity": 0,
     "price": 89300,
-    "image": "images/products/hut01.svg",
+    "image": "images/products/roto-askari-hut.jpeg",
     "shortDescription": "Moulded security hut for guards and site access points.",
     "applications": [
       "sanitation"
@@ -1218,7 +1218,7 @@ window.PRODUCTS = [
     "category": "Sanitation",
     "capacity": 60,
     "price": 6050,
-    "image": "images/products/hand60.svg",
+    "image": "images/products/roto-handwash.jpeg",
     "shortDescription": "Portable 60-litre handwashing unit.",
     "applications": [
       "sanitation"
@@ -1729,7 +1729,7 @@ window.PRODUCTS = [
     "category": "Sanitation",
     "capacity": 60,
     "price": 10450,
-    "image": "images/products/handcyl60.svg",
+    "image": "images/products/roto-handwash.jpeg",
     "shortDescription": "60-litre cylindrical handwashing tank.",
     "applications": [
       "sanitation"

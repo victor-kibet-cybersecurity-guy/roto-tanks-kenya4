@@ -234,6 +234,19 @@ input,select,textarea,button{max-width:100%;font:inherit}
   background:#fff;
 }
 
+/* Keep the supplied handwash and hut photos fully visible. */
+.product-card img[src*="roto-handwash"],
+.product-static-card img[src*="roto-handwash"],
+.related-product-card img[src*="roto-handwash"],
+.product-intro-grid .hero-card img[src*="roto-handwash"],
+.product-card img[src*="roto-askari-hut"],
+.product-static-card img[src*="roto-askari-hut"],
+.related-product-card img[src*="roto-askari-hut"],
+.product-intro-grid .hero-card img[src*="roto-askari-hut"]{
+  object-fit:contain;
+  background:#fff;
+}
+
 /* Match the supplied septic-tank photo's dark background. */
 .product-card img[src*="roto-septic-tank"],
 .product-static-card img[src*="roto-septic-tank"],
