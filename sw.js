@@ -1,4 +1,4 @@
-const CACHE = "roto-tanks-v22";
+const CACHE = "roto-tanks-v23";
 const CORE = [
   "./",
   "./index.html",
@@ -26,6 +26,8 @@ const CORE = [
   "./images/products/roto-septic-tank.avif",
   "./images/products/roto-septic-tank-480.webp",
   "./images/products/roto-septic-tank-480.avif",
+  "./images/products/roto-cattle-trough.jpeg",
+  "./images/products/roto-milk-can.jpeg",
   "./images/icons/icon.svg",
   "./images/icons/apple-touch-icon.png",
   "./images/icons/whatsapp.svg",

@@ -1242,7 +1242,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 9450,
-    "image": "images/products/ct001.svg",
+    "image": "images/products/roto-cattle-trough.jpeg",
     "shortDescription": "Durable livestock feeding or watering trough.",
     "applications": [
       "farm",
@@ -1267,7 +1267,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 10500,
-    "image": "images/products/ct002.svg",
+    "image": "images/products/roto-cattle-trough.jpeg",
     "shortDescription": "Farming trough for livestock operations.",
     "applications": [
       "farm",
@@ -1292,7 +1292,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 12600,
-    "image": "images/products/ct003.svg",
+    "image": "images/products/roto-cattle-trough.jpeg",
     "shortDescription": "Medium cattle trough for farm use.",
     "applications": [
       "farm",
@@ -1317,7 +1317,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 30900,
-    "image": "images/products/ct004.svg",
+    "image": "images/products/roto-cattle-trough.jpeg",
     "shortDescription": "Large cattle trough for livestock facilities.",
     "applications": [
       "farm",
@@ -1342,7 +1342,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 0,
     "price": 41600,
-    "image": "images/products/ct005.svg",
+    "image": "images/products/roto-cattle-trough.jpeg",
     "shortDescription": "Heavy-duty cattle trough for larger herds.",
     "applications": [
       "farm",
@@ -1367,7 +1367,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 38,
     "price": 4200,
-    "image": "images/products/milk38.svg",
+    "image": "images/products/roto-milk-can.jpeg",
     "shortDescription": "38-litre plastic milk can for farm handling.",
     "applications": [
       "farm",
@@ -1392,7 +1392,7 @@ window.PRODUCTS = [
     "category": "Farming",
     "capacity": 80,
     "price": 6400,
-    "image": "images/products/milk80.svg",
+    "image": "images/products/roto-milk-can.jpeg",
     "shortDescription": "80-litre plastic milk can.",
     "applications": [
       "farm",
