@@ -938,7 +938,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 690,
     "price": 39050,
-    "image": "images/products/mb690.svg",
+    "image": "images/products/roto-mega-bin.jpeg",
     "shortDescription": "Large-capacity mobile waste container.",
     "applications": [
       "waste management",
@@ -964,7 +964,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 1100,
     "price": 58800,
-    "image": "images/products/mb1100.svg",
+    "image": "images/products/roto-mega-bin.jpeg",
     "shortDescription": "High-capacity 1,100-litre waste bin.",
     "applications": [
       "waste management",
@@ -990,7 +990,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 200,
     "price": 35900,
-    "image": "images/products/db3.svg",
+    "image": "images/products/roto-dustbin.jpeg",
     "shortDescription": "Three-section waste separation bin.",
     "applications": [
       "waste management",
@@ -1016,7 +1016,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 60,
     "price": 4200,
-    "image": "images/products/db60.svg",
+    "image": "images/products/roto-dustbin.jpeg",
     "shortDescription": "Compact 60-litre dustbin.",
     "applications": [
       "waste management",
@@ -1042,7 +1042,7 @@ window.PRODUCTS = [
     "category": "Waste & Sanitation",
     "capacity": 100,
     "price": 5800,
-    "image": "images/products/db100.svg",
+    "image": "images/products/roto-dustbin.jpeg",
     "shortDescription": "100-litre dustbin for general waste.",
     "applications": [
       "waste management",
